@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghu-1136
 - 👀 I’m interested in ...Python, ML
-- 🌱 I’m currently learning ...Pytho , Tensor Flow
+- 🌱 I’m currently learning ...Python , Tensor Flow
 - 
 - 📫 How to reach me ...
 
